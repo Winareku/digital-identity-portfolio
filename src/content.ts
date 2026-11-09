@@ -3,7 +3,7 @@ export const profile = {
   github: 'Winareku',
   role: 'Estudiante de Ingeniería en Ciencias de la Computación',
   tagline: 'Construyo herramientas web para estudiantes y quiero dedicarme a enseñar informática.',
-  photo: '/images/Formal.png',
+  photo: 'images/Formal.png',
   photoAlt: 'Retrato de Windsor Estrada',
   about: [
     'Estudio Ingeniería en Ciencias de la Computación en la Escuela Politécnica Superior del Litoral (ESPOL), en Guayaquil.',
@@ -35,7 +35,7 @@ export const projects: Project[] = [
       'Evita conflictos entre materias.',
     ],
     repo: 'https://github.com/Winareku/PoliBaldeo',
-    image: '/images/Polibaldeo.png',
+    image: 'images/Polibaldeo.png',
     imageAlt: 'Logo de PoliBaldeo',
   },
   {
@@ -48,7 +48,7 @@ export const projects: Project[] = [
       'Interfaz oscura y funcionamiento sin servidores externos.',
     ],
     repo: 'https://github.com/Winareku/Peakr',
-    image: '/images/Peakr.png',
+    image: 'images/Peakr.png',
     imageAlt: 'Logo de Peakr',
   },
   {
@@ -62,7 +62,7 @@ export const projects: Project[] = [
     ],
     repo: 'https://github.com/Winareku/NeoVim-Simulator',
     demo: 'https://winareku.github.io/NeoVim-Simulator/',
-    image: '/images/NeoVim.png',
+    image: 'images/NeoVim.png',
     imageAlt: 'Captura del simulador de Neovim con tema Gruvbox',
   },
 ];
