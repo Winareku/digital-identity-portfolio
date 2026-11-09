@@ -110,3 +110,14 @@
 - feat: incorpora panel de habilidades y tecnologías con insignias (lenguajes y herramientas con badges).
 - feat: añade fichas de proyectos destacados (PoliBaldeo, Peakr, NeoVim) (los tres proyectos clave con descripciones y enlaces).
 - fix: corrige enlaces de contacto y asegura validación de formato en README (contacto final y revisión de sintaxis Markdown pura).
+
+# Fase 4: Verificación, Validación y Despliegue
+## 1. Configuración y Despliegue con GitHub Pages
+- Se configuró el servicio **GitHub Pages** en el repositorio del proyecto para que compile y sirva la aplicación estática desarrollada con React, TypeScript y Material UI.
+- Se verificó que el sitio web sea accesible públicamente y que la carga de componentes, estilos y recursos gráficos sea fluida y responsiva.
+## 2. Validación de Criterios de la Rúbrica
+- **Contenido de la página principal:** Se estructuró información académica y profesional clara, destacando el rol del desarrollador y resguardando datos personales sensibles.
+- **Sección de Proyectos:** Se integraron formalmente los tres proyectos clave (*PoliBaldeo*, *Peakr* y *NeoVim-Simulator*), detallando el problema que resuelven, sus tecnologías y los enlaces funcionales a sus repositorios o demos.
+- **Sección de Tecnologías:** Se detallaron las herramientas, lenguajes, frameworks y librerías aprendidas durante el curso (JavaScript, TypeScript, React, MUI, npm), explicando de forma explícita su aplicación práctica en los proyectos desarrollados.
+## 3. URL del Sitio Desplegado
+- **URL de GitHub Pages:** `https://winareku.github.io/digital-identity-portfolio/`
