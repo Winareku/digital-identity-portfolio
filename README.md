@@ -86,7 +86,7 @@
 * Duelos 1v1 y top dinámico por Elo.
 * Importar/exportar datos en JSON.
 * Soporte multi-navegador para barras laterales y sidepanels.
-* **Enlace al repositorio**: [GitHub - Peakr](https://www.google.com/search?q=https://github.com/Winareku/Peakr)
+* **Enlace al repositorio**: [GitHub - Peakr](https://github.com/Winareku/Peakr)
 * **Enlace a demostración**: Código fuente para instalación local en modo desarrollador.
 ### Ficha 3: NeoVim-Simulator
 * **Nombre**: NeoVim-Simulator
@@ -96,7 +96,7 @@
 * Emulación de modos Normal, Insert y Visual, más comandos Ex.
 * Syntax Highlight en tiempo real.
 * Interfaz responsiva con teclado físico y virtual.
-* **Enlace al repositorio**: [GitHub - NeoVim-Simulator](https://www.google.com/search?q=https://github.com/Winareku/NeoVim-Simulator)
+* **Enlace al repositorio**: [GitHub - NeoVim-Simulator](https://github.com/Winareku/NeoVim-Simulator)
 * **Enlace a demostración**: Despliegue estático web vinculado al repositorio.
 
 ---
