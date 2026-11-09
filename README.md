@@ -1,4 +1,4 @@
-# Fase 1: Portafolio de Identidad Digital - Observación y Análisis
+# Fase 1: Análisis
 ## 1. Perfiles de Referencia y Tabla Comparativa
 1. **Miella Selene** (`miella`): Estilo Sysadmin/DevOps con enfoque estético, tipografías personalizadas e insignias dinámicas.
 2. **Ashutosh Saxena** (`Xx-Ashutosh-xX`): Entusiasta de Machine Learning, con animaciones de texto, iconos detallados y estadísticas de actividad.
@@ -43,7 +43,7 @@
 
 ---
 
-# Etapa 2: Diseño y Organización de la Información
+# Fase 2: Planificación y Diseño
 ## 1. Estructura del Perfil (`README.md`)
 1. **Presentación**: Banner y saludo inicial.
 2. **Sobre mí**: Rol técnico corto (Extension & Backend Developer).
@@ -101,3 +101,12 @@
 
 ---
 
+# Fase 3: Implementación
+1. Configuración del Repositorio Especial
+- Se creó el repo público especial con el nombre exacto de usuario (Winareku/Winareku).
+- Se dejó el README.md principal como carta de presentación pública del perfil.
+2. Construcción Incremental (Commits Convencionales)
+- docs: define estructura y estrategia de contenido para el perfil (estructura inicial de presentación y sobre mí).
+- feat: incorpora panel de habilidades y tecnologías con insignias (lenguajes y herramientas con badges).
+- feat: añade fichas de proyectos destacados (PoliBaldeo, Peakr, NeoVim) (los tres proyectos clave con descripciones y enlaces).
+- fix: corrige enlaces de contacto y asegura validación de formato en README (contacto final y revisión de sintaxis Markdown pura).
