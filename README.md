@@ -119,5 +119,6 @@
 - **Contenido de la página principal:** Se estructuró información académica y profesional clara, destacando el rol del desarrollador y resguardando datos personales sensibles.
 - **Sección de Proyectos:** Se integraron formalmente los tres proyectos clave (*PoliBaldeo*, *Peakr* y *NeoVim-Simulator*), detallando el problema que resuelven, sus tecnologías y los enlaces funcionales a sus repositorios o demos.
 - **Sección de Tecnologías:** Se detallaron las herramientas, lenguajes, frameworks y librerías aprendidas durante el curso (JavaScript, TypeScript, React, MUI, npm), explicando de forma explícita su aplicación práctica en los proyectos desarrollados.
-## 3. URL del Sitio Desplegado
-- **URL de GitHub Pages:** `https://winareku.github.io/digital-identity-portfolio/`
+## 3. Enlaces del Proyecto
+- **Sitio Web Desplegado (GitHub Pages):** [https://winareku.github.io/digital-identity-portfolio/](https://winareku.github.io/digital-identity-portfolio/)
+- **Perfil de Identidad Digital (Principal):** [https://github.com/Winareku/Winareku](https://github.com/Winareku/Winareku)
