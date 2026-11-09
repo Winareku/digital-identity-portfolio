@@ -41,3 +41,63 @@
 * **Peakr**: Tiene build en Python y soporte multi-navegador, pero le falta un `LICENSE` explícito como el de PoliBaldeo.
 * **NeoVim-Simulator**: No tiene un `README.md` detallado en la raíz; falta explicar uso online, atajos y arquitectura de modos. Documentarlo es prioridad.
 
+---
+
+# Etapa 2: Diseño y Organización de la Información
+## 1. Estructura del Perfil (`README.md`)
+1. **Presentación**: Banner y saludo inicial.
+2. **Sobre mí**: Rol técnico corto (Extension & Backend Developer).
+3. **Habilidades y tecnologías**: Panel visual con badges de lenguajes y herramientas.
+4. **Proyectos destacados**: Fichas directas a *PoliBaldeo*, *Peakr* y *NeoVim-Simulator*.
+5. **Contacto**: Links a correo y perfil profesional.
+## 2. Estrategia de Commits (Commits Convencionales)
+* `docs: define estructura y estrategia de contenido para el perfil`
+* `feat: agrega sección de presentación y sobre mí en README principal`
+* `feat: incorpora panel de habilidades y tecnologías con insignias`
+* `feat: añade fichas de proyectos destacados (PoliBaldeo, Peakr, NeoVim)`
+* `fix: corrige enlaces de contacto y asegura validación de formato en README`
+
+## 3. Diseño del Contenido por Sección
+
+| Sección | Información a Incluir | Información a Evitar | Elementos Visuales / Formato | Enlaces Externos | Optimización de Lectura Rápida |
+| --- | --- | --- | --- | --- | --- |
+| **Presentación** | Saludo y rol principal. | Textos largos o densos. | Banner central (`.png` / `.gif`) y texto estilizado. | Ninguno. | Impacto rápido en los primeros segundos. |
+| **Sobre mí** | Enfoque profesional: extensiones y herramientas web. | Datos personales irrelevantes o contacto mezclado. | Viñetas cortas. | Ninguno. | Lectura vertical rápida. |
+| **Habilidades** | Lenguajes (JavaScript, Python), herramientas (Git, Linux) y tecnologías clave. | Listas largas de cosas obsoletas o no dominadas. | Badges (`shields.io`) e iconos por categoría. | Documentación oficial (opcional). | Agrupación clara por categorías. |
+| **Proyectos** | Resumen de los 3 proyectos clave con links directos. | Explicar código línea por línea. | Tarjetas o tablas compactas. | GitHub, tiendas de extensiones y demos. | Títulos claros y viñetas de funciones clave. |
+| **Contacto** | Correo principal y LinkedIn. | Redes personales sin relación técnica. | Badges o botones de contacto. | `mailto:` y URL de LinkedIn. | Iconos reconocibles al instante. |
+
+## 4. Fichas de Proyectos Destacados
+### Ficha 1: PoliBaldeo
+* **Nombre**: PoliBaldeo
+* **Problema o necesidad que resuelve**: Facilita la matrícula de estudiantes de la ESPOL: captura la oferta y organiza horarios sin conflictos.
+* **Tecnologías utilizadas**: JavaScript (Vanilla JS), Manifest V3, Python para builds y CSS (Material 3 Dark).
+* **Funcionalidades principales**:
+* Captura de oferta académica y botón split para teóricos/prácticos.
+* Planner semanal con detección de conflictos y exámenes.
+* Exportación a `.poli`, iCalendar (`.ics`) y PNG.
+* **Enlace al repositorio**: [GitHub - PoliBaldeo](https://github.com/Winareku/PoliBaldeo)
+* **Enlace a demostración**: [Chrome Web Store](https://chromewebstore.google.com/detail/polpjnkemhjlmadehenohmpjgnmjonpb?utm_source=item-share-cb) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/polibaldeo/)
+### Ficha 2: Peakr
+* **Nombre**: Peakr
+* **Problema o necesidad que resuelve**: Organiza torneos musicales 1v1 en el navegador y rankea canciones con sistema Elo.
+* **Tecnologías utilizadas**: JavaScript, HTML/CSS, Python para releases y APIs de Deezer.
+* **Funcionalidades principales**:
+* Duelos 1v1 y top dinámico por Elo.
+* Importar/exportar datos en JSON.
+* Soporte multi-navegador para barras laterales y sidepanels.
+* **Enlace al repositorio**: [GitHub - Peakr](https://www.google.com/search?q=https://github.com/Winareku/Peakr)
+* **Enlace a demostración**: Código fuente para instalación local en modo desarrollador.
+### Ficha 3: NeoVim-Simulator
+* **Nombre**: NeoVim-Simulator
+* **Problema o necesidad que resuelve**: Entorno web para aprender y practicar comandos y modos de Neovim sin configuración local.
+* **Tecnologías utilizadas**: HTML5, CSS modular y JavaScript modular (estados, comandos Ex, modos Normal, Insert y Visual).
+* **Funcionalidades principales**:
+* Emulación de modos Normal, Insert y Visual, más comandos Ex.
+* Syntax Highlight en tiempo real.
+* Interfaz responsiva con teclado físico y virtual.
+* **Enlace al repositorio**: [GitHub - NeoVim-Simulator](https://www.google.com/search?q=https://github.com/Winareku/NeoVim-Simulator)
+* **Enlace a demostración**: Despliegue estático web vinculado al repositorio.
+
+---
+
